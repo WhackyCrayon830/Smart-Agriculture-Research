@@ -1,0 +1,35 @@
+================================================================================
+CGNN MODEL EVALUATION REPORT
+================================================================================
+
+Model: models\best_model.pt
+Target Mandi: 12
+Focus Mandi: 12
+
+MODEL CONFIGURATION
+--------------------------------------------------------------------------------
+target_mandi: 12
+gnn_type: GCN
+hidden_dim: 64
+num_layers: 4
+dropout: 0.2
+epochs: 100
+batch_size: 32
+learning_rate: 0.001
+
+EVALUATION METRICS
+--------------------------------------------------------------------------------
+mse: 0.15749140083789825
+rmse: 0.39685186743736267
+mae: 0.3869270086288452
+r2: -113.44451904296875
+mape: 146.67601013183594
+direction_accuracy: 0.454545
+num_predictions: 12
+
+DATASET INFO
+--------------------------------------------------------------------------------
+Lookback: 10 timesteps
+Horizon: 1 timestep(s)
+Features: 7
+Test samples: 12

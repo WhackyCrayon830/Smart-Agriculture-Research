@@ -1,0 +1,396 @@
+state,district,market,query_address,reason
+Andhra Pradesh,Chittor,Piler APMC,"Andhra Pradesh, Chittor, Piler APMC mandi",geoapify_failed
+Andhra Pradesh,Chittor,Rompicherla APMC,"Andhra Pradesh, Chittor, Rompicherla APMC mandi",geoapify_failed
+Andhra Pradesh,East Godavari,Prattipadu APMC,"Andhra Pradesh, East Godavari, Prattipadu APMC mandi",geoapify_failed
+Andhra Pradesh,East Godavari,"Rajahmundry(Nataraj),RBZ APMC","Andhra Pradesh, East Godavari, Rajahmundry(Nataraj),RBZ APMC mandi",geoapify_failed
+Andhra Pradesh,East Godavari,Ravulapelem APMC,"Andhra Pradesh, East Godavari, Ravulapelem APMC mandi",geoapify_failed
+Andhra Pradesh,East Godavari,Samalkot APMC,"Andhra Pradesh, East Godavari, Samalkot APMC mandi",geoapify_failed
+Andhra Pradesh,Guntur,"CSMLS Point, ,RBZ,Guntur APMC","Andhra Pradesh, Guntur, CSMLS Point, ,RBZ,Guntur APMC mandi",geoapify_failed
+Andhra Pradesh,Guntur,Phirangipuram APMC,"Andhra Pradesh, Guntur, Phirangipuram APMC mandi",geoapify_failed
+Andhra Pradesh,Krishna,Tiruvuru APMC,"Andhra Pradesh, Krishna, Tiruvuru APMC mandi",geoapify_failed
+Andhra Pradesh,Krishna,Vijayawada APMC,"Andhra Pradesh, Krishna, Vijayawada APMC mandi",geoapify_failed
+Andhra Pradesh,Kurnool,Adoni APMC,"Andhra Pradesh, Kurnool, Adoni APMC mandi",geoapify_failed
+Andhra Pradesh,Kurnool,Alur APMC,"Andhra Pradesh, Kurnool, Alur APMC mandi",geoapify_failed
+Andhra Pradesh,Kurnool,Banaganapalli APMC,"Andhra Pradesh, Kurnool, Banaganapalli APMC mandi",geoapify_failed
+Andhra Pradesh,Kurnool,Kurnool APMC,"Andhra Pradesh, Kurnool, Kurnool APMC mandi",geoapify_failed
+Andhra Pradesh,Kurnool,Mantralayam APMC,"Andhra Pradesh, Kurnool, Mantralayam APMC mandi",geoapify_failed
+Andhra Pradesh,Srikakulam,Kanchili APMC,"Andhra Pradesh, Srikakulam, Kanchili APMC mandi",geoapify_failed
+Andhra Pradesh,Srikakulam,Palasa APMC,"Andhra Pradesh, Srikakulam, Palasa APMC mandi",geoapify_failed
+Andhra Pradesh,Srikakulam,Sompeta APMC,"Andhra Pradesh, Srikakulam, Sompeta APMC mandi",geoapify_failed
+Andhra Pradesh,Vijayanagaram,"Old Maharaj Hospital,RBZ,Vizianagaram APMC","Andhra Pradesh, Vijayanagaram, Old Maharaj Hospital,RBZ,Vizianagaram APMC mandi",geoapify_failed
+Andhra Pradesh,Visakhapatnam,"Gopala Patnam Cent.,RBZ,Visakhapatnam APMC","Andhra Pradesh, Visakhapatnam, Gopala Patnam Cent.,RBZ,Visakhapatnam APMC mandi",geoapify_failed
+Andhra Pradesh,Visakhapatnam,"Kancharlapalem,RBZ APMC","Andhra Pradesh, Visakhapatnam, Kancharlapalem,RBZ APMC mandi",geoapify_failed
+Andhra Pradesh,Visakhapatnam,"M.V.P.Colony,RBZ,Visakhapatnam APMC","Andhra Pradesh, Visakhapatnam, M.V.P.Colony,RBZ,Visakhapatnam APMC mandi",geoapify_failed
+Andhra Pradesh,Visakhapatnam,"Marripalem,RBZ,Visakhapatnam APMC","Andhra Pradesh, Visakhapatnam, Marripalem,RBZ,Visakhapatnam APMC mandi",geoapify_failed
+Andhra Pradesh,Visakhapatnam,"Mulagada,Visakhapatnam APMC","Andhra Pradesh, Visakhapatnam, Mulagada,Visakhapatnam APMC mandi",geoapify_failed
+Andhra Pradesh,West Godavari,Attili APMC,"Andhra Pradesh, West Godavari, Attili APMC mandi",geoapify_failed
+Andhra Pradesh,West Godavari,Bhimavaram APMC,"Andhra Pradesh, West Godavari, Bhimavaram APMC mandi",geoapify_failed
+Andhra Pradesh,West Godavari,"Eluru-II,RBZ APMC","Andhra Pradesh, West Godavari, Eluru-II,RBZ APMC mandi",geoapify_failed
+Arunachal Pradesh,Changlang,Miao APMC,"Arunachal Pradesh, Changlang, Miao APMC mandi",geoapify_failed
+Arunachal Pradesh,East Siang,Pasighat APMC,"Arunachal Pradesh, East Siang, Pasighat APMC mandi",geoapify_failed
+Arunachal Pradesh,Papum Pore,Kurung Kumey APMC,"Arunachal Pradesh, Papum Pore, Kurung Kumey APMC mandi",geoapify_failed
+Arunachal Pradesh,West Kameng,Bomdila APMC,"Arunachal Pradesh, West Kameng, Bomdila APMC mandi",geoapify_failed
+Arunachal Pradesh,West Siang,Along APMC,"Arunachal Pradesh, West Siang, Along APMC mandi",geoapify_failed
+Assam,Sribhumi,Banga Bazaar APMC,"Assam, Sribhumi, Banga Bazaar APMC mandi",geoapify_failed
+Assam,Hojai,Gandhimaidan APMC,"Assam, Hojai, Gandhimaidan APMC mandi",geoapify_failed
+Assam,Barpeta,Alupatty Char APMC,"Assam, Barpeta, Alupatty Char APMC mandi",geoapify_failed
+Assam,Barpeta,Barpeta Road APMC,"Assam, Barpeta, Barpeta Road APMC mandi",geoapify_failed
+Assam,Barpeta,Howly APMC,"Assam, Barpeta, Howly APMC mandi",geoapify_failed
+Assam,Barpeta,Mandia APMC,"Assam, Barpeta, Mandia APMC mandi",geoapify_failed
+Assam,Cachar,Bhaga APMC,"Assam, Cachar, Bhaga APMC mandi",geoapify_failed
+Assam,Cachar,Fatakbazar APMC,"Assam, Cachar, Fatakbazar APMC mandi",geoapify_failed
+Assam,Cachar,Kashipur APMC,"Assam, Cachar, Kashipur APMC mandi",geoapify_failed
+Assam,Cachar,Koroikandi APMC,"Assam, Cachar, Koroikandi APMC mandi",geoapify_failed
+Assam,Darrang,Banglagarh APMC,"Assam, Darrang, Banglagarh APMC mandi",geoapify_failed
+Assam,Darrang,Tangni APMC,"Assam, Darrang, Tangni APMC mandi",geoapify_failed
+Assam,Dhemaji,Dhemaji APMC,"Assam, Dhemaji, Dhemaji APMC mandi",geoapify_failed
+Assam,Dhubri,Chapar APMC,"Assam, Dhubri, Chapar APMC mandi",geoapify_failed
+Assam,Goalpara,Lakhipur APMC,"Assam, Goalpara, Lakhipur APMC mandi",geoapify_failed
+Assam,Golaghat,Gomariguri APMC,"Assam, Golaghat, Gomariguri APMC mandi",geoapify_failed
+Assam,Jorhat,Mariani APMC,"Assam, Jorhat, Mariani APMC mandi",geoapify_failed
+Assam,Kamrup,Rangia Sub-Divisional Market Committee APMC,"Assam, Kamrup, Rangia Sub-Divisional Market Committee APMC mandi",geoapify_failed
+Assam,Kamrup,Sontoli APMC,"Assam, Kamrup, Sontoli APMC mandi",geoapify_failed
+Assam,Kokrajhar,Dotma Bazar APMC,"Assam, Kokrajhar, Dotma Bazar APMC mandi",geoapify_failed
+Assam,Lakhimpur,Kakoi Weekly Market APMC,"Assam, Lakhimpur, Kakoi Weekly Market APMC mandi",geoapify_failed
+Assam,Nalbari,Nalbari APMC,"Assam, Nalbari, Nalbari APMC mandi",geoapify_failed
+Assam,Sibsagar,Moran APMC,"Assam, Sibsagar, Moran APMC mandi",geoapify_failed
+Assam,Sonitpur,Mission Chariali APMC,"Assam, Sonitpur, Mission Chariali APMC mandi",geoapify_failed
+Bihar,Araria,Forbesganj APMC,"Bihar, Araria, Forbesganj APMC mandi",geoapify_failed
+Bihar,Arwal,Arwal APMC,"Bihar, Arwal, Arwal APMC mandi",geoapify_failed
+Bihar,Bhagalpur,Bhagalpur APMC,"Bihar, Bhagalpur, Bhagalpur APMC mandi",geoapify_failed
+Bihar,Bhagalpur,Kahalgaon APMC,"Bihar, Bhagalpur, Kahalgaon APMC mandi",geoapify_failed
+Bihar,Bhagalpur,Naugachiya APMC,"Bihar, Bhagalpur, Naugachiya APMC mandi",geoapify_failed
+Bihar,Bhojpur,Piro APMC,"Bihar, Bhojpur, Piro APMC mandi",geoapify_failed
+Bihar,Buxar,Brahmpur APMC,"Bihar, Buxar, Brahmpur APMC mandi",geoapify_failed
+Bihar,Buxar,Dumarao APMC,"Bihar, Buxar, Dumarao APMC mandi",geoapify_failed
+Bihar,Madhepura,Singheswarsthan APMC,"Bihar, Madhepura, Singheswarsthan APMC mandi",geoapify_failed
+Bihar,Madhubani,Jainagar APMC,"Bihar, Madhubani, Jainagar APMC mandi",geoapify_failed
+Bihar,Madhubani,Madhubani APMC,"Bihar, Madhubani, Madhubani APMC mandi",geoapify_failed
+Bihar,Purnea,Gulabbagh APMC,"Bihar, Purnea, Gulabbagh APMC mandi",geoapify_failed
+Bihar,Purnea,Kaswa APMC,"Bihar, Purnea, Kaswa APMC mandi",geoapify_failed
+Bihar,Rohtas,Dehri APMC,"Bihar, Rohtas, Dehri APMC mandi",geoapify_failed
+Bihar,Rohtas,Sasaram APMC,"Bihar, Rohtas, Sasaram APMC mandi",geoapify_failed
+Bihar,Saharsa,Saharsa APMC,"Bihar, Saharsa, Saharsa APMC mandi",geoapify_failed
+Bihar,Samastipur,Tajpur APMC,"Bihar, Samastipur, Tajpur APMC mandi",geoapify_failed
+Bihar,Sitamarhi,Sitamarhi APMC,"Bihar, Sitamarhi, Sitamarhi APMC mandi",geoapify_failed
+Bihar,Vaishali,"Parsoniya Mandi, Mahua block APMC","Bihar, Vaishali, Parsoniya Mandi, Mahua block APMC mandi",geoapify_failed
+Chattisgarh,Balod,Balod APMC,"Chattisgarh, Balod, Balod APMC mandi",geoapify_failed
+Chattisgarh,Balod,Dondi APMC,"Chattisgarh, Balod, Dondi APMC mandi",geoapify_failed
+Chattisgarh,Balod,Dondilohara APMC,"Chattisgarh, Balod, Dondilohara APMC mandi",geoapify_failed
+Chattisgarh,Balod,Gurur APMC,"Chattisgarh, Balod, Gurur APMC mandi",geoapify_failed
+Chattisgarh,Balodabazar,Balodabazar APMC,"Chattisgarh, Balodabazar, Balodabazar APMC mandi",geoapify_failed
+Chattisgarh,Balodabazar,Kasdol APMC,"Chattisgarh, Balodabazar, Kasdol APMC mandi",geoapify_failed
+Chattisgarh,Balodabazar,Palari APMC,"Chattisgarh, Balodabazar, Palari APMC mandi",geoapify_failed
+Chattisgarh,Balodabazar,Pangaon APMC,"Chattisgarh, Balodabazar, Pangaon APMC mandi",geoapify_failed
+Chattisgarh,Balodabazar,Sarsiwan APMC,"Chattisgarh, Balodabazar, Sarsiwan APMC mandi",geoapify_failed
+Chattisgarh,Balodabazar,Simga APMC,"Chattisgarh, Balodabazar, Simga APMC mandi",geoapify_failed
+Chattisgarh,Balrampur,Rajpur APMC,"Chattisgarh, Balrampur, Rajpur APMC mandi",geoapify_failed
+Chattisgarh,Bastar,Bastar APMC,"Chattisgarh, Bastar, Bastar APMC mandi",geoapify_failed
+Chattisgarh,Bastar,Devda APMC,"Chattisgarh, Bastar, Devda APMC mandi",geoapify_failed
+Chattisgarh,Bastar,Jaitgiri APMC,"Chattisgarh, Bastar, Jaitgiri APMC mandi",geoapify_failed
+Chattisgarh,Bastar,Karpawand APMC,"Chattisgarh, Bastar, Karpawand APMC mandi",geoapify_failed
+Chattisgarh,Bastar,Lohandiguda APMC,"Chattisgarh, Bastar, Lohandiguda APMC mandi",geoapify_failed
+Chattisgarh,Bastar,Muli APMC,"Chattisgarh, Bastar, Muli APMC mandi",geoapify_failed
+Chattisgarh,Bastar,Tokapal APMC,"Chattisgarh, Bastar, Tokapal APMC mandi",geoapify_failed
+Chattisgarh,Bemetara,Bemetara APMC,"Chattisgarh, Bemetara, Bemetara APMC mandi",geoapify_failed
+Chattisgarh,Bemetara,Bemetara(Navagarh) APMC,"Chattisgarh, Bemetara, Bemetara(Navagarh) APMC mandi",geoapify_failed
+Chattisgarh,Bemetara,Bemetara(Thankhamaria) APMC,"Chattisgarh, Bemetara, Bemetara(Thankhamaria) APMC mandi",geoapify_failed
+Chattisgarh,Bemetara,Berla APMC,"Chattisgarh, Bemetara, Berla APMC mandi",geoapify_failed
+Chattisgarh,Bemetara,Dadhi APMC,"Chattisgarh, Bemetara, Dadhi APMC mandi",geoapify_failed
+Chattisgarh,Bemetara,Saja APMC,"Chattisgarh, Bemetara, Saja APMC mandi",geoapify_failed
+Chattisgarh,Bijapur,Bhopalpattnam APMC,"Chattisgarh, Bijapur, Bhopalpattnam APMC mandi",geoapify_failed
+Chattisgarh,Bilaspur,Bilaspur APMC,"Chattisgarh, Bilaspur, Bilaspur APMC mandi",geoapify_failed
+Chattisgarh,Bilaspur,Sakri APMC,"Chattisgarh, Bilaspur, Sakri APMC mandi",geoapify_failed
+Chattisgarh,Dantewada,Gidam APMC,"Chattisgarh, Dantewada, Gidam APMC mandi",geoapify_failed
+Chattisgarh,Durg,Ahivara APMC,"Chattisgarh, Durg, Ahivara APMC mandi",geoapify_failed
+Chattisgarh,Durg,Dhamdha APMC,"Chattisgarh, Durg, Dhamdha APMC mandi",geoapify_failed
+Chattisgarh,Durg,Durg APMC,"Chattisgarh, Durg, Durg APMC mandi",geoapify_failed
+Chattisgarh,Durg,Patan APMC,"Chattisgarh, Durg, Patan APMC mandi",geoapify_failed
+Chattisgarh,Gariyaband,Chura APMC,"Chattisgarh, Gariyaband, Chura APMC mandi",geoapify_failed
+Chattisgarh,Gariyaband,Devbhog APMC,"Chattisgarh, Gariyaband, Devbhog APMC mandi",geoapify_failed
+Chattisgarh,Gariyaband,Gariyaband APMC,"Chattisgarh, Gariyaband, Gariyaband APMC mandi",geoapify_failed
+Chattisgarh,Gariyaband,Phingeshwer APMC,"Chattisgarh, Gariyaband, Phingeshwer APMC mandi",geoapify_failed
+Chattisgarh,Gariyaband,Rajim APMC,"Chattisgarh, Gariyaband, Rajim APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Amadula APMC,"Chattisgarh, Janjgir, Amadula APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Baloda(Janjgir Campus) APMC,"Chattisgarh, Janjgir, Baloda(Janjgir Campus) APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Baradwar APMC,"Chattisgarh, Janjgir, Baradwar APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Birra APMC,"Chattisgarh, Janjgir, Birra APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Champa APMC,"Chattisgarh, Janjgir, Champa APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Hasoad APMC,"Chattisgarh, Janjgir, Hasoad APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Jaijaipur APMC,"Chattisgarh, Janjgir, Jaijaipur APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Kotmi APMC,"Chattisgarh, Janjgir, Kotmi APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Naila APMC,"Chattisgarh, Janjgir, Naila APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Rahod APMC,"Chattisgarh, Janjgir, Rahod APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Sapti APMC,"Chattisgarh, Janjgir, Sapti APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Shakti APMC,"Chattisgarh, Janjgir, Shakti APMC mandi",geoapify_failed
+Chattisgarh,Janjgir,Shivrinarayanpur APMC,"Chattisgarh, Janjgir, Shivrinarayanpur APMC mandi",geoapify_failed
+Chattisgarh,Jashpur,Bageecha APMC,"Chattisgarh, Jashpur, Bageecha APMC mandi",geoapify_failed
+Chattisgarh,Jashpur,Jaspur APMC,"Chattisgarh, Jashpur, Jaspur APMC mandi",geoapify_failed
+Chattisgarh,Jashpur,Kotba APMC,"Chattisgarh, Jashpur, Kotba APMC mandi",geoapify_failed
+Chattisgarh,Jashpur,Kunkuri APMC,"Chattisgarh, Jashpur, Kunkuri APMC mandi",geoapify_failed
+Chattisgarh,Jashpur,Mahuyatoli APMC,"Chattisgarh, Jashpur, Mahuyatoli APMC mandi",geoapify_failed
+Chattisgarh,Kabirdham,Kunda APMC,"Chattisgarh, Kabirdham, Kunda APMC mandi",geoapify_failed
+Chattisgarh,Kabirdham,Pipriya APMC,"Chattisgarh, Kabirdham, Pipriya APMC mandi",geoapify_failed
+Chattisgarh,Kanker,Amoda APMC,"Chattisgarh, Kanker, Amoda APMC mandi",geoapify_failed
+Chattisgarh,Kondagaon,Hirapur APMC,"Chattisgarh, Kondagaon, Hirapur APMC mandi",geoapify_failed
+Chattisgarh,Korba,Kathghora(Kharmora) APMC,"Chattisgarh, Korba, Kathghora(Kharmora) APMC mandi",geoapify_failed
+Chattisgarh,Koria,Manendragarh APMC,"Chattisgarh, Koria, Manendragarh APMC mandi",geoapify_failed
+Chattisgarh,Raigarh,Chikhli APMC,"Chattisgarh, Raigarh, Chikhli APMC mandi",geoapify_failed
+Chattisgarh,Raigarh,Kedar APMC,"Chattisgarh, Raigarh, Kedar APMC mandi",geoapify_failed
+Chattisgarh,Raigarh,Pusor APMC,"Chattisgarh, Raigarh, Pusor APMC mandi",geoapify_failed
+Chattisgarh,Raipur,Navagaon APMC,"Chattisgarh, Raipur, Navagaon APMC mandi",geoapify_failed
+Chattisgarh,Rajnandgaon,Gandai APMC,"Chattisgarh, Rajnandgaon, Gandai APMC mandi",geoapify_failed
+Chattisgarh,Sukma,Doranpal APMC,"Chattisgarh, Sukma, Doranpal APMC mandi",failed
+Chattisgarh,Sukma,Konta APMC,"Chattisgarh, Sukma, Konta APMC mandi",failed
+Chattisgarh,Sukma,Kukanar APMC,"Chattisgarh, Sukma, Kukanar APMC mandi",failed
+Chattisgarh,Sukma,Sukma APMC,"Chattisgarh, Sukma, Sukma APMC mandi",failed
+Chattisgarh,Surguja,Ambikapur APMC,"Chattisgarh, Surguja, Ambikapur APMC mandi",failed
+Chattisgarh,Surguja,Kakni APMC,"Chattisgarh, Surguja, Kakni APMC mandi",failed
+Chattisgarh,Surguja,Udaypur APMC,"Chattisgarh, Surguja, Udaypur APMC mandi",failed
+Daman and Diu,Daman,Diu APMC,"Daman and Diu, Daman, Diu APMC mandi",failed
+Goa,South Goa,Canacona APMC,"Goa, South Goa, Canacona APMC mandi",failed
+Goa,South Goa,Ponda APMC,"Goa, South Goa, Ponda APMC mandi",failed
+Gujarat,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana) APMC,"Gujarat, Ahmedabad, Ahmedabad(Chimanbhai Patal Market Vasana) APMC mandi",failed
+Gujarat,Ahmedabad,Dholka(Koth) APMC,"Gujarat, Ahmedabad, Dholka(Koth) APMC mandi",failed
+Gujarat,Ahmedabad,Dholka(Market Yard Veg) APMC,"Gujarat, Ahmedabad, Dholka(Market Yard Veg) APMC mandi",failed
+Gujarat,Ahmedabad,Ranpur APMC,"Gujarat, Ahmedabad, Ranpur APMC mandi",failed
+Gujarat,Ahmedabad,Sanad APMC,"Gujarat, Ahmedabad, Sanad APMC mandi",failed
+Gujarat,Ahmedabad,Viramgam APMC,"Gujarat, Ahmedabad, Viramgam APMC mandi",failed
+Gujarat,Amreli,Amreli APMC,"Gujarat, Amreli, Amreli APMC mandi",failed
+Gujarat,Amreli,Babra APMC,"Gujarat, Amreli, Babra APMC mandi",failed
+Gujarat,Amreli,Dhari(Chalala) APMC,"Gujarat, Amreli, Dhari(Chalala) APMC mandi",failed
+Gujarat,Anand,Khambhat(Grain Market) APMC,"Gujarat, Anand, Khambhat(Grain Market) APMC mandi",failed
+Gujarat,Anand,Khambhat(Veg Yard Khambhat) APMC,"Gujarat, Anand, Khambhat(Veg Yard Khambhat) APMC mandi",failed
+Gujarat,Banaskanth,Danta APMC,"Gujarat, Banaskanth, Danta APMC mandi",failed
+Gujarat,Banaskanth,Thara APMC,"Gujarat, Banaskanth, Thara APMC mandi",failed
+Gujarat,Banaskanth,Vav APMC,"Gujarat, Banaskanth, Vav APMC mandi",failed
+Gujarat,Bharuch,Amod APMC,"Gujarat, Bharuch, Amod APMC mandi",failed
+Gujarat,Bharuch,Ankleshwar APMC,"Gujarat, Bharuch, Ankleshwar APMC mandi",failed
+Gujarat,Bhavnagar,Gariyadar APMC,"Gujarat, Bhavnagar, Gariyadar APMC mandi",failed
+Gujarat,Bhavnagar,Mahuva(Station Road) APMC,"Gujarat, Bhavnagar, Mahuva(Station Road) APMC mandi",failed
+Gujarat,Bhavnagar,Palitana APMC,"Gujarat, Bhavnagar, Palitana APMC mandi",failed
+Gujarat,Bhavnagar,Taleja APMC,"Gujarat, Bhavnagar, Taleja APMC mandi",failed
+Gujarat,Botad,Botad APMC,"Gujarat, Botad, Botad APMC mandi",failed
+Gujarat,Dahod,Zalod(Sanjeli) APMC,"Gujarat, Dahod, Zalod(Sanjeli) APMC mandi",failed
+Gujarat,Junagarh,Kodinar(Dollasa) APMC,"Gujarat, Junagarh, Kodinar(Dollasa) APMC mandi",failed
+Gujarat,Kheda,Kheda APMC,"Gujarat, Kheda, Kheda APMC mandi",failed
+Gujarat,Mehsana,Unava APMC,"Gujarat, Mehsana, Unava APMC mandi",failed
+Gujarat,Sabarkantha,Prantij APMC,"Gujarat, Sabarkantha, Prantij APMC mandi",failed
+Gujarat,Sabarkantha,Vadali APMC,"Gujarat, Sabarkantha, Vadali APMC mandi",failed
+Gujarat,Surat,Mahuva(Anaval) APMC,"Gujarat, Surat, Mahuva(Anaval) APMC mandi",failed
+Gujarat,Surat,Mandvi APMC,"Gujarat, Surat, Mandvi APMC mandi",failed
+Gujarat,Surat,Mandvi(Amba Paradi) APMC,"Gujarat, Surat, Mandvi(Amba Paradi) APMC mandi",failed
+Gujarat,Surat,Nizar APMC,"Gujarat, Surat, Nizar APMC mandi",failed
+Gujarat,Surat,Songadh APMC,"Gujarat, Surat, Songadh APMC mandi",failed
+Gujarat,Surendranagar,Chotila APMC,"Gujarat, Surendranagar, Chotila APMC mandi",failed
+Gujarat,Surendranagar,Muli APMC,"Gujarat, Surendranagar, Muli APMC mandi",failed
+Gujarat,The Dangs,Ahwa-Dang APMC,"Gujarat, The Dangs, Ahwa-Dang APMC mandi",failed
+Gujarat,Vadodara(Baroda),Chhota Udaipur APMC,"Gujarat, Vadodara(Baroda), Chhota Udaipur APMC mandi",failed
+Gujarat,Vadodara(Baroda),Kawant APMC,"Gujarat, Vadodara(Baroda), Kawant APMC mandi",failed
+Gujarat,Vadodara(Baroda),Vadodara APMC,"Gujarat, Vadodara(Baroda), Vadodara APMC mandi",failed
+Gujarat,Vadodara(Baroda),Vadodara(Navapura) APMC,"Gujarat, Vadodara(Baroda), Vadodara(Navapura) APMC mandi",failed
+Gujarat,Valsad,Dharampur(veg) APMC,"Gujarat, Valsad, Dharampur(veg) APMC mandi",failed
+Gujarat,Valsad,Valsad APMC,"Gujarat, Valsad, Valsad APMC mandi",failed
+Haryana,Ambala,Mullana APMC,"Haryana, Ambala, Mullana APMC mandi",failed
+Haryana,Ambala,Mullana(saha) APMC,"Haryana, Ambala, Mullana(saha) APMC mandi",failed
+Haryana,Hissar,Adampur(Agroha) APMC,"Haryana, Hissar, Adampur(Agroha) APMC mandi",failed
+Haryana,Kaithal,Kaithal APMC,"Haryana, Kaithal, Kaithal APMC mandi",failed
+Haryana,Mewat,Tauru APMC,"Haryana, Mewat, Tauru APMC mandi",failed
+Haryana,Palwal,Hassanpur APMC,"Haryana, Palwal, Hassanpur APMC mandi",failed
+Haryana,Palwal,Hodal APMC,"Haryana, Palwal, Hodal APMC mandi",failed
+Haryana,Panchkula,"New Grain Market , Panchkula APMC","Haryana, Panchkula, New Grain Market , Panchkula APMC mandi",failed
+Haryana,Panipat,Israna APMC,"Haryana, Panipat, Israna APMC mandi",failed
+Haryana,Sirsa,Sirsa APMC,"Haryana, Sirsa, Sirsa APMC mandi",failed
+Haryana,Sonipat,Ganaur APMC,"Haryana, Sonipat, Ganaur APMC mandi",failed
+Haryana,Yamuna Nagar,Yamuna Nagar APMC,"Haryana, Yamuna Nagar, Yamuna Nagar APMC mandi",failed
+Himachal Pradesh,Chamba,PMY Chamba,"Himachal Pradesh, Chamba, PMY Chamba mandi",failed
+Himachal Pradesh,Hamirpur,PMY Hamirpur,"Himachal Pradesh, Hamirpur, PMY Hamirpur mandi",failed
+Himachal Pradesh,Hamirpur,SMY Nadaun,"Himachal Pradesh, Hamirpur, SMY Nadaun mandi",failed
+Himachal Pradesh,Kangra,SMY Jassur,"Himachal Pradesh, Kangra, SMY Jassur mandi",failed
+Himachal Pradesh,Kangra,SMY Jwalaji,"Himachal Pradesh, Kangra, SMY Jwalaji mandi",failed
+Himachal Pradesh,Kangra,SMY Nagrota Bagwan,"Himachal Pradesh, Kangra, SMY Nagrota Bagwan mandi",failed
+Himachal Pradesh,Kullu,PMY Kullu,"Himachal Pradesh, Kullu, PMY Kullu mandi",failed
+Himachal Pradesh,Kullu,SMY Bandrol,"Himachal Pradesh, Kullu, SMY Bandrol mandi",failed
+Himachal Pradesh,Kullu,SMY Banjar,"Himachal Pradesh, Kullu, SMY Banjar mandi",failed
+Himachal Pradesh,Kullu,SMY Khegsu,"Himachal Pradesh, Kullu, SMY Khegsu mandi",failed
+Himachal Pradesh,Mandi,SMY Jogindernagar,"Himachal Pradesh, Mandi, SMY Jogindernagar mandi",failed
+Himachal Pradesh,Shimla,SMY Mehndli,"Himachal Pradesh, Shimla, SMY Mehndli mandi",failed
+Himachal Pradesh,Una,PMY Una,"Himachal Pradesh, Una, PMY Una mandi",failed
+Jammu and Kashmir,Pulwama,Prichoo APMC,"Jammu and Kashmir, Pulwama, Prichoo APMC mandi",failed
+Jammu and Kashmir,Shopian,Shopian APMC,"Jammu and Kashmir, Shopian, Shopian APMC mandi",failed
+Jharkhand,Chatra,Chatra APMC,"Jharkhand, Chatra, Chatra APMC mandi",failed
+Jharkhand,Deogarh,Deoghar APMC,"Jharkhand, Deogarh, Deoghar APMC mandi",failed
+Jharkhand,Dumka,Dumka APMC,"Jharkhand, Dumka, Dumka APMC mandi",failed
+Jharkhand,Godda,Godda APMC,"Jharkhand, Godda, Godda APMC mandi",failed
+Karnataka,Bagalkot,Bagalkot(Bilagi) APMC,"Karnataka, Bagalkot, Bagalkot(Bilagi) APMC mandi",failed
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore APMC","Karnataka, Bangalore, Binny Mill (F&V), Bangalore APMC mandi",failed
+Karnataka,Bangalore,Channapatana APMC,"Karnataka, Bangalore, Channapatana APMC mandi",failed
+Karnataka,Bangalore,Hoskote APMC,"Karnataka, Bangalore, Hoskote APMC mandi",failed
+Karnataka,Belgaum,Athani APMC,"Karnataka, Belgaum, Athani APMC mandi",failed
+Karnataka,Belgaum,Kudchi APMC,"Karnataka, Belgaum, Kudchi APMC mandi",failed
+Karnataka,Bellary,Kottur APMC,"Karnataka, Bellary, Kottur APMC mandi",failed
+Karnataka,Bellary,Sandur APMC,"Karnataka, Bellary, Sandur APMC mandi",failed
+Karnataka,Bidar,Basava Kalayana APMC,"Karnataka, Bidar, Basava Kalayana APMC mandi",failed
+Karnataka,Bidar,Bhalki APMC,"Karnataka, Bidar, Bhalki APMC mandi",failed
+Karnataka,Bijapur,Sindagi APMC,"Karnataka, Bijapur, Sindagi APMC mandi",failed
+Karnataka,Bijapur,Sindagi(Indi) APMC,"Karnataka, Bijapur, Sindagi(Indi) APMC mandi",failed
+Karnataka,Bijapur,Sindagi(chadachan) APMC,"Karnataka, Bijapur, Sindagi(chadachan) APMC mandi",failed
+Karnataka,Dharwad,Hubli (Amaragol) APMC,"Karnataka, Dharwad, Hubli (Amaragol) APMC mandi",failed
+Karnataka,Dharwad,Kalagategi APMC,"Karnataka, Dharwad, Kalagategi APMC mandi",failed
+Karnataka,Karwar(Uttar Kannad),Honnavar APMC,"Karnataka, Karwar(Uttar Kannad), Honnavar APMC mandi",failed
+Karnataka,Kolar,Chickkaballapura APMC,"Karnataka, Kolar, Chickkaballapura APMC mandi",failed
+Karnataka,Kolar,Gowribidanoor APMC,"Karnataka, Kolar, Gowribidanoor APMC mandi",failed
+Karnataka,Koppal,Koppal APMC,"Karnataka, Koppal, Koppal APMC mandi",failed
+Karnataka,Koppal,Kustagi APMC,"Karnataka, Koppal, Kustagi APMC mandi",failed
+Karnataka,Madikeri(Kodagu),Somvarpet APMC,"Karnataka, Madikeri(Kodagu), Somvarpet APMC mandi",failed
+Karnataka,Mandya,Maddur APMC,"Karnataka, Mandya, Maddur APMC mandi",failed
+Karnataka,Mandya,Malavalli APMC,"Karnataka, Mandya, Malavalli APMC mandi",failed
+Karnataka,Mandya,Mandya APMC,"Karnataka, Mandya, Mandya APMC mandi",failed
+Karnataka,Mandya,Nagamangala APMC,"Karnataka, Mandya, Nagamangala APMC mandi",failed
+Karnataka,Mandya,Pandavapura APMC,"Karnataka, Mandya, Pandavapura APMC mandi",failed
+Karnataka,Mandya,Srirangapattana APMC,"Karnataka, Mandya, Srirangapattana APMC mandi",failed
+Karnataka,Mangalore(Dakshin Kannad),Sulya APMC,"Karnataka, Mangalore(Dakshin Kannad), Sulya APMC mandi",failed
+Karnataka,Mysore,Mysore (Bandipalya) APMC,"Karnataka, Mysore, Mysore (Bandipalya) APMC mandi",failed
+Karnataka,Mysore,Nanjangud APMC,"Karnataka, Mysore, Nanjangud APMC mandi",failed
+Karnataka,Raichur,Devadurga APMC,"Karnataka, Raichur, Devadurga APMC mandi",failed
+Karnataka,Raichur,Lingasugur APMC,"Karnataka, Raichur, Lingasugur APMC mandi",failed
+Karnataka,Raichur,Manvi APMC,"Karnataka, Raichur, Manvi APMC mandi",failed
+Karnataka,Raichur,Raichur APMC,"Karnataka, Raichur, Raichur APMC mandi",failed
+Karnataka,Raichur,Sindhanur APMC,"Karnataka, Raichur, Sindhanur APMC mandi",failed
+Karnataka,Ramanagar,Ramanagar APMC,"Karnataka, Ramanagar, Ramanagar APMC mandi",failed
+Kerala,Alappuzha,Harippad APMC,"Kerala, Alappuzha, Harippad APMC mandi",failed
+Kerala,Ernakulam,Broadway market APMC,"Kerala, Ernakulam, Broadway market APMC mandi",failed
+Kerala,Pathanamthitta,Ezhamkulam VFPCK APMC,"Kerala, Pathanamthitta, Ezhamkulam VFPCK APMC mandi",failed
+Kerala,Pathanamthitta,Pandalam VFPCK APMC,"Kerala, Pathanamthitta, Pandalam VFPCK APMC mandi",failed
+Kerala,Pathanamthitta,Parakkodu APMC,"Kerala, Pathanamthitta, Parakkodu APMC mandi",failed
+Kerala,Pathanamthitta,Pramadom VFPCK APMC,"Kerala, Pathanamthitta, Pramadom VFPCK APMC mandi",failed
+Kerala,Thiruvananthapuram,Aralamoodu APMC,"Kerala, Thiruvananthapuram, Aralamoodu APMC mandi",failed
+Madhya Pradesh,Anupur,Anuppur APMC,"Madhya Pradesh, Anupur, Anuppur APMC mandi",failed
+Maharashtra,Ahmednagar,Prasanna Krushi Market APMC,"Maharashtra, Ahmednagar, Prasanna Krushi Market APMC mandi",failed
+Maharashtra,Ahmednagar,Shree Sairaj Krushi Market APMC,"Maharashtra, Ahmednagar, Shree Sairaj Krushi Market APMC mandi",failed
+Maharashtra,Akola,Late Vasantraoji Dandale Khajgi Krushi Bazar APMC,"Maharashtra, Akola, Late Vasantraoji Dandale Khajgi Krushi Bazar APMC mandi",failed
+Maharashtra,Amarawati,Shetkari Khushi Bazar APMC,"Maharashtra, Amarawati, Shetkari Khushi Bazar APMC mandi",failed
+Maharashtra,Beed,Kai Madhavrao Pawar Khajgi Krushi Utappan Bazar Sa APMC,"Maharashtra, Beed, Kai Madhavrao Pawar Khajgi Krushi Utappan Bazar Sa APMC mandi",failed
+Maharashtra,Buldhana,BSK Krishi Bazar Private Ltd APMC,"Maharashtra, Buldhana, BSK Krishi Bazar Private Ltd APMC mandi",failed
+Maharashtra,Buldhana,Deulgaon Raja Balaji Agro Marketing Private Market APMC,"Maharashtra, Buldhana, Deulgaon Raja Balaji Agro Marketing Private Market APMC mandi",failed
+Maharashtra,Buldhana,Jaykissan Krushi Uttpan Khajgi Bazar APMC,"Maharashtra, Buldhana, Jaykissan Krushi Uttpan Khajgi Bazar APMC mandi",failed
+Maharashtra,Buldhana,Maharaja Agresen Private Krushi Utappan Bazar Sama APMC,"Maharashtra, Buldhana, Maharaja Agresen Private Krushi Utappan Bazar Sama APMC mandi",failed
+Maharashtra,Chattrapati Sambhajinagar,Bhagyoday Cotton and Agri Market APMC,"Maharashtra, Chattrapati Sambhajinagar, Bhagyoday Cotton and Agri Market APMC mandi",failed
+Maharashtra,Chattrapati Sambhajinagar,Kisan Seva Private Market APMC,"Maharashtra, Chattrapati Sambhajinagar, Kisan Seva Private Market APMC mandi",failed
+Maharashtra,Chattrapati Sambhajinagar,Lasur Station APMC,"Maharashtra, Chattrapati Sambhajinagar, Lasur Station APMC mandi",failed
+Maharashtra,Dhule,Dondaicha(Sindhkheda) APMC,"Maharashtra, Dhule, Dondaicha(Sindhkheda) APMC mandi",failed
+Maharashtra,Dhule,Janata Agri Market (DLS Agro Infrastructure Pvt Lt APMC,"Maharashtra, Dhule, Janata Agri Market (DLS Agro Infrastructure Pvt Lt APMC mandi",failed
+Maharashtra,Gondiya,Amgaon APMC,"Maharashtra, Gondiya, Amgaon APMC mandi",failed
+Maharashtra,Gondiya,Arjuni APMC,"Maharashtra, Gondiya, Arjuni APMC mandi",failed
+Maharashtra,Gondiya,Devri APMC,"Maharashtra, Gondiya, Devri APMC mandi",failed
+Maharashtra,Gondiya,Gondiya APMC,"Maharashtra, Gondiya, Gondiya APMC mandi",failed
+Maharashtra,Gondiya,Goregaon APMC,"Maharashtra, Gondiya, Goregaon APMC mandi",failed
+Maharashtra,Hingoli,Marathawada Shetkari Khajgi Bazar Parisar APMC,"Maharashtra, Hingoli, Marathawada Shetkari Khajgi Bazar Parisar APMC mandi",failed
+Maharashtra,Hingoli,"Sant Namdev Krushi Bazar, APMC","Maharashtra, Hingoli, Sant Namdev Krushi Bazar, APMC mandi",failed
+Maharashtra,Nanded,Navratna Krishi Utpanna Khajgi Bazar APMC,"Maharashtra, Nanded, Navratna Krishi Utpanna Khajgi Bazar APMC mandi",failed
+Maharashtra,Nashik,Perfect Krishi Market Yard APMC,"Maharashtra, Nashik, Perfect Krishi Market Yard APMC mandi",failed
+Maharashtra,Nashik,Shree Rameshwar Krushi Market APMC,"Maharashtra, Nashik, Shree Rameshwar Krushi Market APMC mandi",failed
+Maharashtra,Parbhani,Gangakhed APMC,"Maharashtra, Parbhani, Gangakhed APMC mandi",failed
+Maharashtra,Parbhani,Hari Har Khajagi Bazar Parisar APMC,"Maharashtra, Parbhani, Hari Har Khajagi Bazar Parisar APMC mandi",failed
+Maharashtra,Parbhani,Manwat APMC,"Maharashtra, Parbhani, Manwat APMC mandi",failed
+Maharashtra,Parbhani,Samartha Krushi Bajar Private Limited APMC,"Maharashtra, Parbhani, Samartha Krushi Bajar Private Limited APMC mandi",failed
+Maharashtra,Parbhani,Shree Salasar Krushi Bazar APMC,"Maharashtra, Parbhani, Shree Salasar Krushi Bazar APMC mandi",failed
+Maharashtra,Pune,Junnar APMC,"Maharashtra, Pune, Junnar APMC mandi",failed
+Maharashtra,Pune,Nira(Saswad) APMC,"Maharashtra, Pune, Nira(Saswad) APMC mandi",failed
+Maharashtra,Pune,Pune APMC,"Maharashtra, Pune, Pune APMC mandi",failed
+Maharashtra,Pune,Pune(Khadiki) APMC,"Maharashtra, Pune, Pune(Khadiki) APMC mandi",failed
+Maharashtra,Pune,Pune(Moshi) APMC,"Maharashtra, Pune, Pune(Moshi) APMC mandi",failed
+Maharashtra,Thane,Mumbai-Onion And Potato Mkt APMC,"Maharashtra, Thane, Mumbai-Onion And Potato Mkt APMC mandi",failed
+Maharashtra,Vashim,Jai Gajanan Krishi Bazar APMC,"Maharashtra, Vashim, Jai Gajanan Krishi Bazar APMC mandi",failed
+Maharashtra,Vashim,N N Mundhada Agriculture Market Produce APMC,"Maharashtra, Vashim, N N Mundhada Agriculture Market Produce APMC mandi",failed
+Maharashtra,Vashim,Shri Balaji krishi Utpanna Bazar Samiti APMC,"Maharashtra, Vashim, Shri Balaji krishi Utpanna Bazar Samiti APMC mandi",failed
+Maharashtra,Wardha,Arihant Krishi Utpan Bazar APMC,"Maharashtra, Wardha, Arihant Krishi Utpan Bazar APMC mandi",failed
+Maharashtra,Wardha,Sai Agro Infratrade Pvt Agri Market APMC,"Maharashtra, Wardha, Sai Agro Infratrade Pvt Agri Market APMC mandi",failed
+Maharashtra,Yavatmal,Cottoncity Agro Foods Private Ltd APMC,"Maharashtra, Yavatmal, Cottoncity Agro Foods Private Ltd APMC mandi",failed
+Maharashtra,Yavatmal,Ramdev Krushi Bazaar APMC,"Maharashtra, Yavatmal, Ramdev Krushi Bazaar APMC mandi",failed
+Maharashtra,Yavatmal,Renukadevi Private Market Yard APMC,"Maharashtra, Yavatmal, Renukadevi Private Market Yard APMC mandi",failed
+Maharashtra,Yavatmal,Shekari Krushi Khajgi Bazar APMC,"Maharashtra, Yavatmal, Shekari Krushi Khajgi Bazar APMC mandi",failed
+Mizoram,Aizawl,Mission APMC,"Mizoram, Aizawl, Mission APMC mandi",failed
+NCT of Delhi,Delhi,"Fish,Poultry & Egg Market, Gazipur APMC","NCT of Delhi, Delhi, Fish,Poultry & Egg Market, Gazipur APMC mandi",failed
+NCT of Delhi,Delhi,"Flower Market,Gazipur APMC","NCT of Delhi, Delhi, Flower Market,Gazipur APMC mandi",failed
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri APMC","NCT of Delhi, Delhi, Fodder Market, Mangolpuri APMC mandi",failed
+NCT of Delhi,Delhi,Najafgarh APMC,"NCT of Delhi, Delhi, Najafgarh APMC mandi",failed
+NCT of Delhi,Delhi,Shahdara APMC,"NCT of Delhi, Delhi, Shahdara APMC mandi",failed
+Odisha,Keonjhar,Anandapur APMC,"Odisha, Keonjhar, Anandapur APMC mandi",failed
+Odisha,Keonjhar,Keonjhar APMC,"Odisha, Keonjhar, Keonjhar APMC mandi",failed
+Odisha,Keonjhar,Keonjhar(Dhekikote) APMC,"Odisha, Keonjhar, Keonjhar(Dhekikote) APMC mandi",failed
+Odisha,Keonjhar,Keonjhar(Jhumpura) APMC,"Odisha, Keonjhar, Keonjhar(Jhumpura) APMC mandi",failed
+Odisha,Keonjhar,Saharpada APMC,"Odisha, Keonjhar, Saharpada APMC mandi",failed
+Odisha,Khurda,Aiginia Mandi APMC,"Odisha, Khurda, Aiginia Mandi APMC mandi",failed
+Odisha,Nowarangpur,Nabarangpur(Umerkote) APMC,"Odisha, Nowarangpur, Nabarangpur(Umerkote) APMC mandi",failed
+Odisha,Nuapada,Khariar Road APMC,"Odisha, Nuapada, Khariar Road APMC mandi",failed
+Punjab,Amritsar,Rayya APMC,"Punjab, Amritsar, Rayya APMC mandi",failed
+Punjab,Amritsar,Rayya(Sathiala) APMC,"Punjab, Amritsar, Rayya(Sathiala) APMC mandi",failed
+Punjab,Barnala,Barnala APMC,"Punjab, Barnala, Barnala APMC mandi",failed
+Punjab,Barnala,Bhadaur APMC,"Punjab, Barnala, Bhadaur APMC mandi",failed
+Punjab,Barnala,Bhadaur(Sehna) APMC,"Punjab, Barnala, Bhadaur(Sehna) APMC mandi",failed
+Punjab,Barnala,Mehal Kalan APMC,"Punjab, Barnala, Mehal Kalan APMC mandi",failed
+Punjab,Bhatinda,Bhagta Bhai Ka (Jalal) APMC,"Punjab, Bhatinda, Bhagta Bhai Ka (Jalal) APMC mandi",failed
+Punjab,Bhatinda,Bhagta Bhai Ka APMC,"Punjab, Bhatinda, Bhagta Bhai Ka APMC mandi",failed
+Punjab,Bhatinda,Talwandi Sabo APMC,"Punjab, Bhatinda, Talwandi Sabo APMC mandi",failed
+Punjab,Jalandhar,Jalandhar City(Kartar Pur Dana mandi) APMC,"Punjab, Jalandhar, Jalandhar City(Kartar Pur Dana mandi) APMC mandi",failed
+Punjab,Ludhiana,lakhowal APMC,"Punjab, Ludhiana, lakhowal APMC mandi",failed
+Punjab,Mansa,Ahemadpur APMC,"Punjab, Mansa, Ahemadpur APMC mandi",failed
+Punjab,Mansa,Boha APMC,"Punjab, Mansa, Boha APMC mandi",failed
+Punjab,Mansa,Mansa (Bhamekalan) APMC,"Punjab, Mansa, Mansa (Bhamekalan) APMC mandi",failed
+Punjab,Moga,Nihal Singh Wala (Rautan) APMC,"Punjab, Moga, Nihal Singh Wala (Rautan) APMC mandi",failed
+Punjab,Patiala,Samana APMC,"Punjab, Patiala, Samana APMC mandi",failed
+Rajasthan,Barmer,Barmer APMC,"Rajasthan, Barmer, Barmer APMC mandi",failed
+Rajasthan,Barmer,Chohtan APMC,"Rajasthan, Barmer, Chohtan APMC mandi",failed
+Rajasthan,Barmer,Dhorimanna APMC,"Rajasthan, Barmer, Dhorimanna APMC mandi",failed
+Rajasthan,Beawar,Beawar APMC,"Rajasthan, Beawar, Beawar APMC mandi",failed
+Rajasthan,Beawar,Jaitaran APMC,"Rajasthan, Beawar, Jaitaran APMC mandi",failed
+Rajasthan,Bharatpur,Bharatpur APMC,"Rajasthan, Bharatpur, Bharatpur APMC mandi",failed
+Rajasthan,Bharatpur,Bhusawar Bair APMC,"Rajasthan, Bharatpur, Bhusawar Bair APMC mandi",failed
+Rajasthan,Bikaner,Pugal Road (Grain) APMC,"Rajasthan, Bikaner, Pugal Road (Grain) APMC mandi",failed
+Rajasthan,Pali,Sojat Road APMC,"Rajasthan, Pali, Sojat Road APMC mandi",failed
+Rajasthan,Shahpura,Shahpura APMC,"Rajasthan, Shahpura, Shahpura APMC mandi",failed
+Rajasthan,Sirohi,Abu Road APMC,"Rajasthan, Sirohi, Abu Road APMC mandi",failed
+Rajasthan,Swai Madhopur,Sawai Madhopur APMC,"Rajasthan, Swai Madhopur, Sawai Madhopur APMC mandi",failed
+Sikkim,South Sikkim (Namchi),Melli APMC,"Sikkim, South Sikkim (Namchi), Melli APMC mandi",failed
+Sikkim,West Sikkim (Gyalsing),Gyalsing APMC,"Sikkim, West Sikkim (Gyalsing), Gyalsing APMC mandi",failed
+Tamil Nadu,Krishnagiri,Pochampalli APMC,"Tamil Nadu, Krishnagiri, Pochampalli APMC mandi",failed
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,"Tamil Nadu, Madurai, Anna nagar(Uzhavar Sandhai ) APMC mandi",failed
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ APMC","Telangana, Khammam, Pavilion Ground,Khammam,RBZ APMC mandi",failed
+Telangana,Mahbubnagar,Wanaparthy Road APMC,"Telangana, Mahbubnagar, Wanaparthy Road APMC mandi",failed
+Tripura,North Tripura,Dasda APMC,"Tripura, North Tripura, Dasda APMC mandi",failed
+Tripura,North Tripura,Kanchanpur,"Tripura, North Tripura, Kanchanpur mandi",failed
+Tripura,South Tripura,Barpathari APMC,"Tripura, South Tripura, Barpathari APMC mandi",failed
+Tripura,South Tripura,Kalsi APMC,"Tripura, South Tripura, Kalsi APMC mandi",failed
+Tripura,South Tripura,Manubazar,"Tripura, South Tripura, Manubazar mandi",failed
+Uttar Pradesh,Kushinagar,Tamkuhi road APMC,"Uttar Pradesh, Kushinagar, Tamkuhi road APMC mandi",failed
+West Bengal,Jalpaiguri,Jalpaiguri Sadar APMC,"West Bengal, Jalpaiguri, Jalpaiguri Sadar APMC mandi",failed
+West Bengal,Jalpaiguri,Moynaguri APMC,"West Bengal, Jalpaiguri, Moynaguri APMC mandi",failed
+West Bengal,Jalpaiguri,Moynaguri(Dhupguri) APMC,"West Bengal, Jalpaiguri, Moynaguri(Dhupguri) APMC mandi",failed
+West Bengal,Alipurduar,Alipurduar APMC,"West Bengal, Alipurduar, Alipurduar APMC mandi",failed
+West Bengal,Bankura,Bankura Sadar APMC,"West Bengal, Bankura, Bankura Sadar APMC mandi",failed
+West Bengal,Birbhum,Bishnupur APMC,"West Bengal, Birbhum, Bishnupur APMC mandi",failed
+West Bengal,Birbhum,Sainthia(Suri) APMC,"West Bengal, Birbhum, Sainthia(Suri) APMC mandi",failed
+West Bengal,Coochbehar,Dinhata APMC,"West Bengal, Coochbehar, Dinhata APMC mandi",failed
+West Bengal,Coochbehar,Haldibari APMC,"West Bengal, Coochbehar, Haldibari APMC mandi",failed
+West Bengal,Coochbehar,Mathabhanga APMC,"West Bengal, Coochbehar, Mathabhanga APMC mandi",failed
+West Bengal,Darjeeling,Darjeeling APMC,"West Bengal, Darjeeling, Darjeeling APMC mandi",failed
+West Bengal,Darjeeling,Matigara APMC,"West Bengal, Darjeeling, Matigara APMC mandi",failed
+West Bengal,Darjeeling,Siliguri APMC,"West Bengal, Darjeeling, Siliguri APMC mandi",failed
+West Bengal,Hooghly,Kalipur APMC,"West Bengal, Hooghly, Kalipur APMC mandi",failed
+West Bengal,Kalimpong,Kalimpong APMC,"West Bengal, Kalimpong, Kalimpong APMC mandi",failed
+West Bengal,Malda,Gajol APMC,"West Bengal, Malda, Gajol APMC mandi",failed
+West Bengal,Malda,Samsi APMC,"West Bengal, Malda, Samsi APMC mandi",failed
+West Bengal,Medinipur(W),Midnapore Sadar APMC,"West Bengal, Medinipur(W), Midnapore Sadar APMC mandi",failed
+West Bengal,Murshidabad,Jiaganj(Lalbagh) APMC,"West Bengal, Murshidabad, Jiaganj(Lalbagh) APMC mandi",failed
+West Bengal,Murshidabad,Kasimbazar APMC,"West Bengal, Murshidabad, Kasimbazar APMC mandi",failed
+West Bengal,Nadia,Chakdah APMC,"West Bengal, Nadia, Chakdah APMC mandi",failed
+West Bengal,Nadia,Kalyani APMC,"West Bengal, Nadia, Kalyani APMC mandi",failed
+West Bengal,Nadia,Nadia APMC,"West Bengal, Nadia, Nadia APMC mandi",failed
+West Bengal,Nadia,Ranaghat(Kalyani) APMC,"West Bengal, Nadia, Ranaghat(Kalyani) APMC mandi",failed
+West Bengal,North 24 Parganas,Habra APMC,"West Bengal, North 24 Parganas, Habra APMC mandi",failed
+West Bengal,Paschim Bardhaman,Durgapur APMC,"West Bengal, Paschim Bardhaman, Durgapur APMC mandi",failed
+West Bengal,Purba Bardhaman,Kalna APMC,"West Bengal, Purba Bardhaman, Kalna APMC mandi",failed
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,"West Bengal, Sounth 24 Parganas, Baruipur(Canning) APMC mandi",failed
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,"West Bengal, Sounth 24 Parganas, Diamond Harbour(South 24-pgs) APMC mandi",failed
+West Bengal,Uttar Dinajpur,Islampur APMC,"West Bengal, Uttar Dinajpur, Islampur APMC mandi",failed

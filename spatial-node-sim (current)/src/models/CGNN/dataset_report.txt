@@ -1,0 +1,101 @@
+================================================================================
+MANDI DATASET EVALUATION REPORT
+================================================================================
+
+Dataset: .\mandi_dataset_20260212_124834.csv
+Total rows: 36,315
+
+
+SCHEMA
+--------------------------------------------------------------------------------
+total_columns: 19
+required_present: 12
+required_missing: 0
+optional_present: 7
+has_blockchain: True
+missing_cols: []
+
+COMPLETENESS
+--------------------------------------------------------------------------------
+world_id: {'null_count': np.int64(0), 'null_pct': np.float64(0.0), 'complete': np.True_}
+time: {'null_count': np.int64(0), 'null_pct': np.float64(0.0), 'complete': np.True_}
+node_id: {'null_count': np.int64(0), 'null_pct': np.float64(0.0), 'complete': np.True_}
+x: {'null_count': np.int64(0), 'null_pct': np.float64(0.0), 'complete': np.True_}
+y: {'null_count': np.int64(0), 'null_pct': np.float64(0.0), 'complete': np.True_}
+z: {'null_count': np.int64(0), 'null_pct': np.float64(0.0), 'complete': np.True_}
+price_state: {'null_count': np.int64(0), 'null_pct': np.float64(0.0), 'complete': np.True_}
+actual_price: {'null_count': np.int64(1), 'null_pct': np.float64(0.0027536830510808204), 'complete': np.False_}
+weather_effect: {'null_count': np.int64(1), 'null_pct': np.float64(0.0027536830510808204), 'complete': np.False_}
+supply: {'null_count': np.int64(1), 'null_pct': np.float64(0.0027536830510808204), 'complete': np.False_}
+demand: {'null_count': np.int64(1), 'null_pct': np.float64(0.0027536830510808204), 'complete': np.False_}
+storage: {'null_count': np.int64(1), 'null_pct': np.float64(0.0027536830510808204), 'complete': np.False_}
+neighbor_mean_price: {'null_count': np.int64(1), 'null_pct': np.float64(0.0027536830510808204), 'complete': np.False_}
+degree: {'null_count': np.int64(1), 'null_pct': np.float64(0.0027536830510808204), 'complete': np.False_}
+volatility: {'null_count': np.int64(1), 'null_pct': np.float64(0.0027536830510808204), 'complete': np.False_}
+price_trend: {'null_count': np.int64(1), 'null_pct': np.float64(0.0027536830510808204), 'complete': np.False_}
+blockchain_price: {'null_count': np.int64(1), 'null_pct': np.float64(0.0027536830510808204), 'complete': np.False_}
+price_consensus: {'null_count': np.int64(1), 'null_pct': np.float64(0.0027536830510808204), 'complete': np.False_}
+on_chain: {'null_count': np.int64(1), 'null_pct': np.float64(0.0027536830510808204), 'complete': np.False_}
+
+TEMPORAL
+--------------------------------------------------------------------------------
+min_time: 0
+max_time: 99
+total_timesteps: 100
+time_range: 100
+continuous: True
+avg_nodes_per_time: 363.15
+min_nodes_per_time: 330
+max_nodes_per_time: 391
+consistent_nodes: False
+
+SPATIAL
+--------------------------------------------------------------------------------
+total_nodes: 31
+x_range: (np.float64(0.0507085422235534), np.float64(96.91763773477238))
+y_range: (np.float64(2.1612079880330426), np.float64(98.20290581226882))
+z_range: (np.float64(1.0), np.float64(99.2375564055837))
+x_std: 27.48325971603508
+y_std: 26.638926773396364
+z_std: 31.04263056145885
+avg_degree: 3.0
+min_degree: 3.0
+max_degree: 3.0
+
+PRICES
+--------------------------------------------------------------------------------
+actual_price_mean: 95.52409619564206
+actual_price_std: 22.538293418185166
+actual_price_min: 22.37946171276167
+actual_price_max: 156.44025799198658
+state_mean: -0.046755313526787384
+state_std: 0.19514772051872503
+avg_volatility: 0.023372149806443466
+avg_trend: -0.0005159437121457747
+trend_std: 0.059295401489256994
+blockchain_price_mean: 96.95057664099303
+consensus_rate: 1.0
+avg_deviation_from_consensus: 17.60339624238169
+
+MARKET
+--------------------------------------------------------------------------------
+avg_supply: 1.2400178559055772
+avg_demand: 0.9802104042745123
+supply_std: 0.46089535543597415
+demand_std: 0.12849871086805245
+avg_balance: -0.2598074516310647
+avg_storage: 0.46511687369834426
+storage_std: 0.4125114152496795
+avg_weather: -0.014604344590724178
+weather_std: 0.4359622927118136
+extreme_weather_pct: 3.4118133002891367
+
+STATIONARITY
+--------------------------------------------------------------------------------
+node_0.0_trend: 0.011027197163368795
+node_1.0_trend: 0.06421387941199616
+node_2.0_trend: -0.013798216130170416
+node_3.0_trend: 0.01766943151682504
+node_4.0_trend: -0.018212180217472815
+avg_trend: 0.012180022348909353
+appears_stationary: False
